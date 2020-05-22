@@ -1,4 +1,4 @@
-readme.md: guesssinggame.sh
+readme.md:
 	echo "# Tarea Calificada Bash-Make-Git-GitHub" > readme.md
 	echo "- **Date and time:**" >> readme.md
 	echo | date >> readme.md
